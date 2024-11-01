@@ -1,0 +1,16 @@
+name: rl_franka_agent
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+    - mujoco==2.3.3
+    - gymnasium==0.29.1
+    - gymnasium-robotics==1.2.2
+    - stable-baselines3==2.3.0
+    - sb3-contrib==2.3.0
+    - torchviz==0.0.2
+    - pandas==2.2.2
+    - tensorboard==2.17.1
+    - matplotlib==3.9.2
