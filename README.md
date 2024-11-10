@@ -4,8 +4,6 @@ ME5418 Project of NUS Mechanical Engineering MSc
 
 This repository is inspired by [panda-gym](https://github.com/qgallouedec/panda-gym.git) and developed with the Franka Emika Panda arm in [MuJoCo](https://github.com/google-deepmind/mujoco_menagerie).
 
-![training environment](Picture/env.png)
-
 <img src="Picture/env.png" alt="training environment" width="500"/>
 
 ## Start training
