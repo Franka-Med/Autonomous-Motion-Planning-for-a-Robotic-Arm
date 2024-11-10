@@ -17,4 +17,5 @@ run the 'franka_test.ipynb'
 After running, it will first display the performance of a conventional control method, followed by outputting the trained model's performance in visualization interfaces and plotting the success rate. Each test is conducted for 10 rounds.
 
 For the push task, the model was trained for 500000 timesteps.
+
 For the pick task, the model was trained for 1000000 timesteps.
