@@ -6,6 +6,8 @@ This repository is inspired by [panda-gym](https://github.com/qgallouedec/panda-
 
 ![training environment](Picture/env.png)
 
+<img src="Picture/env.png" alt="training environment" width="500"/>
+
 ## Start training
 
 run the 'franka_training.ipynb'
