@@ -4,7 +4,7 @@ ME5418 Project of NUS Mechanical Engineering MSc
 
 This repository is inspired by [panda-gym](https://github.com/qgallouedec/panda-gym.git) and developed with the Franka Emika Panda arm in [MuJoCo](https://github.com/google-deepmind/mujoco_menagerie).
 
-![training environment](Picture/env.jpg)
+![training environment](Picture/env.png)
 
 ## Start training
 
@@ -22,4 +22,4 @@ For the push task, the model was trained for 500000 timesteps.
 
 For the pick task, the model was trained for 1000000 timesteps.
 
-![training result](Picture/result.jpg)
+![training result](Picture/result.png)
