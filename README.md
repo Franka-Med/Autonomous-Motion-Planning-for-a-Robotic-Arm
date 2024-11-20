@@ -8,7 +8,7 @@ This repository is inspired by [panda-gym](https://github.com/qgallouedec/panda-
 
 ## Start training
 
-run the 'franka_training.ipynb'
+run the 'franka_train.ipynb'
 
 After running, it will output the neural network structure, input and output details, visualization interfaces, and training logs. The trained model will be saved as a zip file, and training metrics will be logged to TensorBoard. Each algorithm is trained for only 200 timesteps as a demonstration.
 
