@@ -22,4 +22,4 @@ For the push task, the model was trained for 500000 timesteps.
 
 For the pick task, the model was trained for 1000000 timesteps.
 
-![training result](Picture/result.png)
+![training result](Picture/result.jpeg)
