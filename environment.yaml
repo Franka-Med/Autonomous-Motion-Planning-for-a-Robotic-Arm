@@ -14,3 +14,5 @@ dependencies:
     - pandas==2.2.2
     - tensorboard==2.17.1
     - matplotlib==3.9.2
+    - ipython==8.18.1
+    - ipykernel==6.29.5
